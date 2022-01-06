@@ -11,7 +11,8 @@ import SwiftUI
 struct SuperHeoresApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            //ContentView()
+            GridSuperHeroeView()
         }
     }
 }
